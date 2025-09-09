@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(to right, #f104e9, #243b55);
+}
+
+
+#R {
+    height: 250px;
+    width: 430px;
+    border: 2px solid black;
+    background: linear-gradient(to right, #49cdee, #eb3b47);
+    text-align: center;
+}
+
+#V {
+    margin-left: 500px;
+    margin-top: 200px;
+}
